@@ -1,0 +1,14 @@
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.deps.json
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Core.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Core.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.csprojAssemblyReference.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.AssemblyInfo.cs
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.csproj.CopyComplete
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain.Services\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.Services.pdb

@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.CrossCutting.IOC\\Tasken.API.Eventos.Infra.CrossCutting.IOC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Aplicacao\\Tasken.API.Eventos.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Aplicacao\\Tasken.API.Eventos.Aplicacao.csproj",
+        "projectName": "Tasken.API.Eventos.Aplicacao",
+        "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Aplicacao\\Tasken.API.Eventos.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\doliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj",
+        "projectName": "Tasken.API.Eventos.Domain.Core",
+        "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\doliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain\\Tasken.API.Eventos.Domain.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain\\Tasken.API.Eventos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Services\\Tasken.API.Eventos.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Services\\Tasken.API.Eventos.Domain.Services.csproj",
+        "projectName": "Tasken.API.Eventos.Domain.Services",
+        "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Services\\Tasken.API.Eventos.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\doliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain\\Tasken.API.Eventos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain\\Tasken.API.Eventos.Domain.csproj",
+        "projectName": "Tasken.API.Eventos.Domain",
+        "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain\\Tasken.API.Eventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\doliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.CrossCutting.IOC\\Tasken.API.Eventos.Infra.CrossCutting.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.CrossCutting.IOC\\Tasken.API.Eventos.Infra.CrossCutting.IOC.csproj",
+        "projectName": "Tasken.API.Eventos.Infra.CrossCutting.IOC",
+        "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.CrossCutting.IOC\\Tasken.API.Eventos.Infra.CrossCutting.IOC.csproj",
+        "packagesPath": "C:\\Users\\doliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.CrossCutting.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Aplicacao\\Tasken.API.Eventos.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Aplicacao\\Tasken.API.Eventos.Aplicacao.csproj"
+              },
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Services\\Tasken.API.Eventos.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Services\\Tasken.API.Eventos.Domain.Services.csproj"
+              },
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.Data\\Tasken.API.Eventos.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.Data\\Tasken.API.Eventos.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.Data\\Tasken.API.Eventos.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.Data\\Tasken.API.Eventos.Infra.Data.csproj",
+        "projectName": "Tasken.API.Eventos.Infra.Data",
+        "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.Data\\Tasken.API.Eventos.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\doliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\doliveira\\source\\repos\\Tasken.API.Eventos\\Tasken.API.Eventos.Domain.Core\\Tasken.API.Eventos.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AcessoFacilSqlServer": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

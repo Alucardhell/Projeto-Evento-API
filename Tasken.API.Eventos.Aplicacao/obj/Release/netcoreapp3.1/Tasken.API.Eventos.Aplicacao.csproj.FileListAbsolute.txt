@@ -1,0 +1,14 @@
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.deps.json
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.Core.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.Core.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.csprojAssemblyReference.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.AssemblyInfo.cs
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.csproj.CopyComplete
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Aplicacao\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Aplicacao.pdb

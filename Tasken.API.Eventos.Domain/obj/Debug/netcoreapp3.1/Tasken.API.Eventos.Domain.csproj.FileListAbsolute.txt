@@ -1,0 +1,8 @@
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.deps.json
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\bin\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.AssemblyInfoInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.AssemblyInfo.cs
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Domain\obj\Debug\netcoreapp3.1\Tasken.API.Eventos.Domain.pdb

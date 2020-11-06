@@ -1,0 +1,17 @@
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.csprojAssemblyReference.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.AssemblyInfo.cs
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.deps.json
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.runtimeconfig.json
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.runtimeconfig.dev.json
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.Core.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.Core.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\bin\Release\netcoreapp3.1\Tasken.API.Eventos.Domain.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.csproj.CopyComplete
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.dll
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.pdb
+C:\Users\doliveira\source\repos\Tasken.API.Eventos\Tasken.API.Eventos.Infra.Data\obj\Release\netcoreapp3.1\Tasken.API.Eventos.Infra.Data.genruntimeconfig.cache
